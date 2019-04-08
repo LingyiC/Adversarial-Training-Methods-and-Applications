@@ -3,3 +3,8 @@ Adversarial training (AT) and its variations can be used as means of regularizat
 
 This milestone report explains the method and architect we proposed and provides the preliminary result on our baseline methods and initial experiment on the effect of different regularization methods including AT and virtual adversarial training (VAT).
 
+## Experiment 1: Adversarial Text Classification
+ 
+ ## Experiment 2: Insincere Questions Classification
+ 
+ 
