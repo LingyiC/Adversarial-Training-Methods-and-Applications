@@ -5,3 +5,6 @@ Data: https://drive.google.com/drive/folders/167hBaVZxes9r5c9FEohkf2TSctFguJDw?u
 
 
 Details present in the submitted milestone PDF
+
+run Quora Insincere Questions Classification basic classification.ipynb
+
