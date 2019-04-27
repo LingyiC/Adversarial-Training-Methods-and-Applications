@@ -1,5 +1,5 @@
 # Branch
 
-1. Milestone Report
+Branch 1: Milestone Report
 
-2. Final Report
+Branch 2: Final Report
