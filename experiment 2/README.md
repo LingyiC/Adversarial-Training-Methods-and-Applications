@@ -4,7 +4,6 @@ Embeddings: https://drive.google.com/drive/folders/12Rbhcp2CpZH4i-T52VzWegPVFiZH
 Data: https://drive.google.com/drive/folders/167hBaVZxes9r5c9FEohkf2TSctFguJDw?usp=sharing
 
 
-Details present in the submitted report
+Details present in the submitted report.
 
-run Quora Insincere Questions Classification basic classification.ipynb
-
+For detail instruction, see README of each experiment.
