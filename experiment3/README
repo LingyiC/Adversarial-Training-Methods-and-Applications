@@ -1,8 +1,0 @@
-Data:
-1. Quora Insincere Questions Classification Dataset: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
-2. GloVe Embedding: glove.840B.300d - https://nlp.stanford.edu/projects/glove/
-
-Put Quora data (after splitting into train, dev and test set) into \rawdata.
-Put retrained GloVe embedding into \dataset directory.
-Run python scripts in \preprocess directory to create processed data.
-Run train_model.py for training and evaluation.
